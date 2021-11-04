@@ -22,6 +22,7 @@ public class SpawnEvent implements Listener {
         this.mobManager = manager;
     }
 
+    //TODO: I plan to add more mobs
     @EventHandler
     public void onSpawn(CreatureSpawnEvent e) {
         if(mobManager.getMobState() == MobState.ENABLED) {
