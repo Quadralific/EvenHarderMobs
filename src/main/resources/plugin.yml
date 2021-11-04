@@ -1,0 +1,14 @@
+name: EvenHarderMobs
+version: '${project.version}'
+main: me.redstonenotplaced.evenhardermobs.EvenHarderMobs
+api-version: 1.17
+authors: [ RedstoneNotPlaced ]
+description: A plugin that makes hostile mobs even harder to kill
+
+commands:
+  start:
+    description: Start command
+    permission: ehm.command.start
+  end:
+    description: End command
+    permission: ehm.command.end
