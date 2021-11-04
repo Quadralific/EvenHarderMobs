@@ -9,6 +9,7 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 - /start - Starts the challenge
 - /end - Ends the challenge
 # Installation
+- Download the plugin jar from the release tabs
 - Put the plugin jar in your Spigot or Paper server
 - Start up your server
 # Other Notes
