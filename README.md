@@ -10,7 +10,7 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 # Commands
 - /start - Starts the challenge
 - /end - Ends the challenge
-- # Permission
+# Permission
 - /start - ehm.command.start
 - /end - ehm.command.end
 # Installation
