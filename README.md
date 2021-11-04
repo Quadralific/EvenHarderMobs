@@ -14,5 +14,6 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 - Download the plugin jar from the release tabs
 - Put the plugin jar in your 1.17 Spigot or Paper server
 - Start up your server
-# Other Notes
-I plan to add more mobs powerful
+# To Do
+- Add more powerful mobs
+- Maybe some good configuration
