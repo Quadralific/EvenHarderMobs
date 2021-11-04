@@ -1,5 +1,5 @@
 # EvenHarderMobs
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) ![downloads](https://img.shields.io/github/downloads/RedstoneNotPlaced/EvenHarderMobs/total?style=for-the-badge)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://java.com) [![downloads](https://img.shields.io/github/downloads/RedstoneNotPlaced/EvenHarderMobs/total?style=for-the-badge)](https://github.com/RedstoneNotPlaced/EvenHarderMobs/releases/tag/release)
 
 A plugin that makes hostile mobs harder to kill and much more deadlier. Great for challenges!!!
 # Features
