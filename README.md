@@ -1,4 +1,6 @@
 # EvenHarderMobs
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) ![downloads](https://img.shields.io/github/downloads/RedstoneNotPlaced/EvenHarderMobs/total.svg)
+
 A plugin that makes hostile mobs harder to kill and much more deadlier. Great for challenges!!!
 # Features
 - Makes zombies have full diamond armor with a Sharpness V diamond axe
