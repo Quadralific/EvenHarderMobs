@@ -3,10 +3,14 @@
 
 A plugin that makes hostile mobs harder to kill and much more deadlier. Great for challenges!!!
 # Features
-- Makes zombies have full diamond armor with a Sharpness V diamond axe
-- Makes skeletons have full diamond armor with a Punch II bow
+- Makes zombies have full diamond armor with a enchanted diamond axe
+- Makes skeletons have full diamond armor with a enchanted bow
 - Makes creepers super charged on spawn and it's explosion radius is 10x bigger
 - Makes spiders faster and have more higher jump
+- Makes ravangers stronger and much more deadlier
+- Makes endermans stronger
+- Makes drowned have an enchanted trident with a full diamond armor
+- Makes phantom invinsible, powerful and much more faster
 # Commands
 - /start - Starts the challenge
 - /end - Ends the challenge
