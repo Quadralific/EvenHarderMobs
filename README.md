@@ -24,3 +24,5 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 # To Do
 - Add more powerful mobs
 - Maybe some good configuration
+# Update
+- I'm doing a whole recode on the plugin and adding the some new powerful mobs. I think I will able to upload this tommorow :)
