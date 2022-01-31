@@ -1,5 +1,5 @@
 # EvenHarderMobs
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://java.com) [![downloads](https://img.shields.io/github/downloads/RedstoneNotPlaced/EvenHarderMobs/total?style=for-the-badge)](https://github.com/RedstoneNotPlaced/EvenHarderMobs/releases/tag/release)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://java.com) [![downloads](https://img.shields.io/github/downloads/RedstoneNotPlaced/EvenHarderMobs/total?style=for-the-badge)](https://github.com/RedstoneNotPlaced/EvenHarderMobs/releases/tag/v1.0.2)
 
 A plugin that makes hostile mobs harder to kill and much more deadlier. Great for challenges!!!
 # Features
@@ -8,9 +8,10 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 - Makes creepers super charged on spawn and it's explosion radius is 10x bigger
 - Makes spiders faster and have more higher jump
 - Makes ravangers stronger and much more deadlier
-- Makes endermans stronger
+- Makes endermans stronger and faster
 - Makes drowned have an enchanted trident with a full diamond armor
 - Makes phantom invinsible, powerful and much more faster
+- And some super mobs will have it's own passive (power) (Example: When the enderman hits you, you will get blindness for 10 seconds)
 # Commands
 - /start - Starts the challenge
 - /end - Ends the challenge
