@@ -12,6 +12,7 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 - Makes drowned have an enchanted trident with a full diamond armor
 - Makes phantom invinsible, powerful and much more faster
 - And some super mobs will have it's own passive (power) (Example: When the enderman hits you, you will get blindness for 10 seconds)
+- And much more!!!
 # Commands
 - /start - Starts the challenge
 - /end - Ends the challenge
