@@ -14,17 +14,19 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CommandStart implements CommandExecutor, TabCompleter {
-    private final MobManager mobManager;
+    private final MobManager manager;
 
-    public CommandStart(MobManager mobManager) {
-        this.mobManager = mobManager;
+    public CommandStart(MobManager manager) {
+        this.manager = manager;
     }
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        // Let's check if the sender is a player.
         if(sender instanceof Player) {
-            if(mobManager.getMobState() == MobState.DISABLED) {
-                mobManager.setMobState(MobState.ENABLED);
+            // Let's see if the current mob state is not super. If it is, then we will set the current mob state to super.
+            if(manager.getMobState() == MobState.NOT_SUPER) {
+                manager.setMobState(MobState.SUPER);
                 Bukkit.broadcastMessage(ChatColor.translateAlternateColorCodes('&', "&6&l\u279C CHALLENGE HAS STARTED!!!"));
             } else {
                 sender.sendMessage(ChatColor.RED + "The challenge is already started!!!");

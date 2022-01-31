@@ -1,14 +1,14 @@
 name: EvenHarderMobs
 version: '${project.version}'
 main: me.redstonenotplaced.evenhardermobs.EvenHarderMobs
-api-version: 1.17
+api-version: 1.18
 authors: [ RedstoneNotPlaced ]
-description: A plugin that makes hostile mobs even harder to kill
+description: A plugin that makes mobs even more dealier and harder to kill. Great for Minecarft-But-Challenges!!!
 
 commands:
   start:
-    description: Start command
+    description: Starts the challenge
     permission: ehm.command.start
   end:
-    description: End command
+    description: Ends the challenge
     permission: ehm.command.end

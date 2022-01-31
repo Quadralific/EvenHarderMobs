@@ -14,17 +14,19 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CommandEnd implements CommandExecutor, TabCompleter {
-    private final MobManager mobManager;
+    private final MobManager manager;
 
-    public CommandEnd(MobManager mobManager) {
-        this.mobManager = mobManager;
+    public CommandEnd(MobManager manager) {
+        this.manager = manager;
     }
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        // Let's check if the sender is a player.
         if(sender instanceof Player) {
-            if(mobManager.getMobState() == MobState.ENABLED) {
-                mobManager.setMobState(MobState.DISABLED);
+            // Let's see if the current mob state is super. If it is, then we will set it to not super.
+            if(manager.getMobState() == MobState.SUPER) {
+                manager.setMobState(MobState.NOT_SUPER);
                 Bukkit.broadcastMessage(ChatColor.GOLD + "" + ChatColor.BOLD + "\u279C THE CHALLENGE HAS ENDED!!!");
             } else {
                 sender.sendMessage(ChatColor.RED + "The challenge is already disabled!!!");
