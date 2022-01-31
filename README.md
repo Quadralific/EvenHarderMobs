@@ -20,7 +20,7 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 - /end - ehm.command.end
 # Installation
 - Download the plugin jar from the release tabs
-- Put the plugin jar in your 1.17 Spigot or Paper server
+- Put the plugin jar in your 1.18 Spigot or Paper server
 - Start up your server
 # To Do
 - Add more powerful mobs
