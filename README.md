@@ -5,7 +5,7 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 # Features
 - Makes zombies have full diamond armor with a enchanted diamond axe
 - Makes skeletons have full diamond armor with a enchanted bow
-- Makes creepers super charged on spawn and it's explosion radius is 10x bigger
+- Makes creepers super charged on spawn and it's explosion radius is 15x bigger
 - Makes spiders faster and have more higher jump
 - Makes ravangers stronger and much more deadlier
 - Makes endermans stronger and faster
