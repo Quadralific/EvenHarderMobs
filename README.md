@@ -29,4 +29,4 @@ A plugin that makes hostile mobs harder to kill and much more deadlier. Great fo
 # Got any issues?
 - If your having any issues with the plugin please open a issue in the issue tab
 # Update!!!
-- I will update this plugin maybe in March cause I have some school stuffs I need to do. Also im planning to add more super mobs, make the code cleaner and remove some redundant things.
+- I will update this plugin maybe in March cause I have some school stuffs I need to do. Also im planning to add more super mobs, make the code cleaner, remove some redundant things, and fix some errors with it.
